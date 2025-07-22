@@ -157,7 +157,7 @@ footer {
   color: #3949ab;
   font-size: 15px;
   line-height: 1.7;
-  /* Make bullets larger and indented */
+  /* Adjust font size for larger bullets and add spacing for indentation */
 }
 
 .participants-list li {
